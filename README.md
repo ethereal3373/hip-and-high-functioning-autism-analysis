@@ -1,2 +1,8 @@
-# hip-and-high-functioning-autism-analysis
-Analysis of high intellectual potential and high functioning autism in a pediatric sample
+# High Intellectual Potential and High Functioning Autism: Data Analysis
+Project baseed on the paper "High Intellectual Potential and High Functioning Autism: CLinical and Neurophysiological in a Pediatric Sample", published by NCBI/PubMed Central.
+
+## Goal
+Leaern data analysis and the functioning of GitHub by exploring data of personal interest.
+
+## Status
+No data downloaded.
