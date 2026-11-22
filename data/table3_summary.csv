@@ -1,0 +1,10 @@
+measure,group,mean,sd,n
+MMN_amplitude,HIP,6.39,2.65,16
+MMN_amplitude,HFA,4.45,1.13,17
+MMN_amplitude,NTD,6.37,1.84,10
+MMN_latency,HIP,94.61,28.6,16
+MMN_latency,HFA,93.96,20.08,17
+MMN_latency,NTD,83.61,25.5,10
+P300_ms,HIP,301.88,,16
+P300_ms,HFA,311.33,,17
+P300_ms,NTD,306.53,,10
